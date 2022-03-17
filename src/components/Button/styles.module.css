@@ -1,0 +1,20 @@
+.btn {
+    background-color: #7b8eb0;
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-size: 15px;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:hover {
+    background-color: #4d799e;
+}
